@@ -1,0 +1,26 @@
+{
+  "instance_profile": {
+    "instance_id": "i-0e35ef5a4307ef844",
+    "instance_type": "t3.micro",
+    "region": "us-east-1",
+    "availability_zone": "us-east-1c",
+    "ami_id": "ami-0b6d9d3d33ba97d99",
+    "public_ipv4": "34.228.155.215",
+    "os": "Linux-7.0.0-1012-aws-x86_64-with-glibc2.43",
+    "python": "3.14.4",
+    "vcpu": "2",
+    "memory": "908.7 MB"
+  },
+  "network_measurement": {
+    "packets": "10/10",
+    "packet_loss": "0.0%",
+    "minimum_rtt": "0.792 ms",
+    "average_rtt": "1.588 ms",
+    "maximum_rtt": "2.207 ms"
+  },
+  "scheduler_execution": {
+    "tasks_completed": 50,
+    "execution_time": 0.000593,
+    "cpu_usage": "0.0%"
+  }
+}

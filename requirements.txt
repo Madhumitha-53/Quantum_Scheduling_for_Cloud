@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+pydantic
+requests
+qiskit
+qiskit-aer
+qiskit-optimization
+numpy
+pandas
+matplotlib
+scipy
+boto3
+psutil

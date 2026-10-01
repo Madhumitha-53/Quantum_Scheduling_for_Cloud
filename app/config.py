@@ -1,0 +1,12 @@
+class Config:
+    AWS_CAPACITY = 100
+    AZURE_CAPACITY = 120
+    GCP_CAPACITY = 90
+
+    AWS_CARBON = 0.6
+    AZURE_CARBON = 0.4
+    GCP_CARBON = 0.5
+
+    SLA_WEIGHT = 0.4
+    CARBON_WEIGHT = 0.3
+    LOAD_WEIGHT = 0.3
